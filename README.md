@@ -1,4 +1,4 @@
-# TPBOT Bot
+# TPBOT
 
 Telegram bot used for spam control and user administration.
 
